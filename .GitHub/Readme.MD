@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/suraj08832/Sonali-MusicV2">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/vishu007vn/Sonali-MusicV2">
     <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-8A2BE2?style=for-the-badge&logo=heroku" width="230" height="40"/>
   </a>
 </p>
